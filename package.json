@@ -1,0 +1,16 @@
+{
+  "name": "express-mysql-sequelize",
+  "version": "1.0.0",
+  "description": "Practice: Express JS App with MySQL using Sequelize library",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Fatima Khalid",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
